@@ -29,8 +29,8 @@ namespace SampleOWINApp
             app.UseWsFederationAuthentication(
                 new WsFederationAuthenticationOptions
                 {
-                    MetadataAddress = "https://login.microsoftonline.com/2c2a63d4-465c-464d-b7f5-6ccfd0dce5b8/federationmetadata/2007-06/federationmetadata.xml",
-                    Wtrealm = "https://testService.local/",
+                    MetadataAddress = "https://login.gribskov.dk/FederationMetadata/2007-06/FederationMetadata.xml",
+                    Wtrealm = "https://localhost:44303/",
                 });
 
             app.SetDefaultSignInAsAuthenticationType(CookieAuthenticationDefaults.AuthenticationType);
