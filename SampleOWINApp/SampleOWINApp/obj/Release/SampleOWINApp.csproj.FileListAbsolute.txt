@@ -31,3 +31,39 @@ c:\users\sakamati\documents\visual studio 2013\Projects\SampleOWINApp\SampleOWIN
 c:\users\sakamati\documents\visual studio 2013\Projects\SampleOWINApp\SampleOWINApp\obj\Release\SampleOWINApp.csprojResolveAssemblyReference.cache
 c:\users\sakamati\documents\visual studio 2013\Projects\SampleOWINApp\SampleOWINApp\obj\Release\SampleOWINApp.dll
 c:\users\sakamati\documents\visual studio 2013\Projects\SampleOWINApp\SampleOWINApp\obj\Release\SampleOWINApp.pdb
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\SampleOWINApp.dll.config
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\SampleOWINApp.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\SampleOWINApp.pdb
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.Security.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.Security.WsFederation.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Owin.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Helpers.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Mvc.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Razor.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Webpages.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.Security.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\Microsoft.Owin.Security.WsFederation.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Razor.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Webpages.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Helpers.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\bin\System.Web.Mvc.xml
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\obj\Release\SampleOWINApp.csprojAssemblyReference.cache
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\obj\Release\SampleOWINApp.csproj.CoreCompileInputs.cache
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\obj\Release\SampleOWINApp.csproj.CopyComplete
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\obj\Release\SampleOWINApp.dll
+C:\Users\bdoll\source\aspdotnet\aspnet\SampleOWINApp\SampleOWINApp\obj\Release\SampleOWINApp.pdb

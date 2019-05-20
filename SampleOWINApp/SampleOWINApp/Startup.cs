@@ -30,7 +30,7 @@ namespace SampleOWINApp
                 new WsFederationAuthenticationOptions
                 {
                     MetadataAddress = "https://login.gribskov.dk/FederationMetadata/2007-06/FederationMetadata.xml",
-                    Wtrealm = "https://localhost:44303/",
+                    Wtrealm = "https://seb-asptestapp20190516033826.azurewebsites.net/",
                 });
 
             app.SetDefaultSignInAsAuthenticationType(CookieAuthenticationDefaults.AuthenticationType);
